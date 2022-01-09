@@ -1,5 +1,5 @@
 # tp_chroboczek
-Projet de Chroboczek en langage Go
+Projet de réseau en langage Go
 
 * client.go est la partie principale de notre code 
 * Pour tester le client, se placer dans le dossier où il se trouve avec un terminal et entrer go run client.go
