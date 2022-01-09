@@ -1,4 +1,4 @@
-# tp_chroboczek
+# tp_reseau
 Projet de réseau en langage Go
 
 * client.go est la partie principale de notre code 
